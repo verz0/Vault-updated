@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.example.vault.app-merged_res-17:/drawable-v21_launch_background.xml.flat",
+        "source": "com.example.vault.app-main-10:/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "com.example.vault.app-merged_res-17:/mipmap-mdpi_idk.png.flat",
+        "source": "com.example.vault.app-main-10:/mipmap-mdpi/idk.png"
+    },
+    {
+        "merged": "com.example.vault.app-merged_res-17:/mipmap-xxxhdpi_idk.png.flat",
+        "source": "com.example.vault.app-main-10:/mipmap-xxxhdpi/idk.png"
+    },
+    {
+        "merged": "com.example.vault.app-merged_res-17:/mipmap-xxhdpi_idk.png.flat",
+        "source": "com.example.vault.app-main-10:/mipmap-xxhdpi/idk.png"
+    },
+    {
+        "merged": "com.example.vault.app-merged_res-17:/mipmap-xhdpi_idk.png.flat",
+        "source": "com.example.vault.app-main-10:/mipmap-xhdpi/idk.png"
+    },
+    {
+        "merged": "com.example.vault.app-merged_res-17:/drawable_launch_background.xml.flat",
+        "source": "com.example.vault.app-main-10:/drawable/launch_background.xml"
+    },
+    {
+        "merged": "com.example.vault.app-merged_res-17:/mipmap-hdpi_idk.png.flat",
+        "source": "com.example.vault.app-main-10:/mipmap-hdpi/idk.png"
+    }
+]

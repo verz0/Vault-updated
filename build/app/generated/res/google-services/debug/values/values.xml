@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">815399387398-ifho9ja7n0vei1noq8hsasr7vk1ed1ci.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">815399387398</string>
+    <string name="google_api_key" translatable="false">AIzaSyAlUz3KbcUb0WvmgGMl9J4c6NofKl71jJ0</string>
+    <string name="google_app_id" translatable="false">1:815399387398:android:f8f261f4f5e77d0baa1e87</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAlUz3KbcUb0WvmgGMl9J4c6NofKl71jJ0</string>
+    <string name="google_storage_bucket" translatable="false">vault-2029f.appspot.com</string>
+    <string name="project_id" translatable="false">vault-2029f</string>
+</resources>
